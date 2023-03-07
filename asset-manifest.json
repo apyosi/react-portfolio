@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apyosi/react-portfolio/static/css/main.c2cab247.css",
+    "main.js": "/apyosi/react-portfolio/static/js/main.94bd9539.js",
+    "index.html": "/apyosi/react-portfolio/index.html",
+    "main.c2cab247.css.map": "/apyosi/react-portfolio/static/css/main.c2cab247.css.map",
+    "main.94bd9539.js.map": "/apyosi/react-portfolio/static/js/main.94bd9539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.94bd9539.js"
+  ]
+}
