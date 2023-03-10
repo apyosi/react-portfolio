@@ -2,7 +2,7 @@ import React from "react";
 
 function Work() {
   return (
-    <div>
+    <section className="work">
       <h1>Work</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula. Curabitur pellentesque
@@ -16,7 +16,7 @@ function Work() {
         vehicula sit amet at augue. Maecenas aliquam bibendum congue. Pellentesque semper, lectus
         non ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
-    </div>
+    </section>
   );
 }
 
