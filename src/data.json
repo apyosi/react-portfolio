@@ -1,0 +1,44 @@
+[
+  {
+    "id": "weather-forecast",
+    "description": "5 Day Weather Forecast - retrieve weather data for cities.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/weather-forecast/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/weather-forecast",
+    "deployed_url": "https://apyosi.github.io/weather-forecast/"
+  },
+  {
+    "id": "daily-planner",
+    "description": "Simple calendar application that allows a user to save events for each business hour of the day.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/daily-planner/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/daily-planner",
+    "deployed_url": "https://apyosi.github.io/daily-planner/"
+  },
+  {
+    "id": "code-quiz",
+    "description": "Timed coding quiz with multiple-choice questions that stores high scores.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/code-quiz/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/code-quiz",
+    "deployed_url": "https://apyosi.github.io/code-quiz/"
+  },
+  {
+    "id": "password-generator",
+    "description": "Generate a random password based on different character types (Lowercase, Uppercase, Numeric, Special characters).",
+    "image_url": "https://raw.githubusercontent.com/apyosi/password-generator/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/password-generator",
+    "deployed_url": "https://apyosi.github.io/password-generator/"
+  },
+  {
+    "id": "readme-generator",
+    "description": "Command-line application to generate README.md files from user input.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/readme-generator/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/readme-generator",
+    "deployed_url": "https://apyosi.github.io/readme-generator/"
+  },
+  {
+    "id": "Traveller-Friend",
+    "description": "A one-stop holiday planning site using few APIs (OpenWeatherMap.org, ExchangeRate.Host, Calendarific, Google Maps) .",
+    "image_url": "https://raw.githubusercontent.com/apyosi/Traveller-Friend/main/assets/img/Screenshot.png",
+    "html_url": "https://github.com/apyosi/Traveller-Friend",
+    "deployed_url": "https://apyosi.github.io/Traveller-Friend/"
+  }
+]
