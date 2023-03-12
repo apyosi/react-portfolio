@@ -1,17 +1,43 @@
 import React from "react";
+import profileImage from "../images/profile.png"
 
 function About() {
   return (
-    <section className="about">
-      <h1>About</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
-        mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
-        porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
-        semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
-        rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
-    </section>
+    <>
+      <section id="about">
+        <h1 className="text-center">About Me</h1>
+        <hr />
+      </section>
+      <section>
+        <div className="container clearfix">
+          <img
+            className="col-4 col-sm-3 col-md-2 float-start mb-3 me-3"
+            src={profileImage}
+            alt="profile"
+          />
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
+            temporibus repudiandae unde tempora! Fugit, dicta cumque dignissimos
+            veniam porro at obcaecati totam harum reiciendis excepturi minus
+            enim aliquam iste fugiat.
+          </p>
+          <br />
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
+            temporibus repudiandae unde tempora! Fugit, dicta cumque dignissimos
+            veniam porro at obcaecati totam harum reiciendis excepturi minus
+            enim aliquam iste fugiat.
+          </p>
+          <br />
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque
+            temporibus repudiandae unde tempora! Fugit, dicta cumque dignissimos
+            veniam porro at obcaecati totam harum reiciendis excepturi minus
+            enim aliquam iste fugiat.
+          </p>
+        </div>
+      </section>
+    </>
   );
 }
 
