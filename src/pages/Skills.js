@@ -3,9 +3,13 @@ import React from "react";
 function Skills() {
   return (
     <>
-      <section id="skills">
+      <main id="skills">
         <h1 className="text-center">Skills</h1>
-        <hr />
+        {/* <hr /> */}
+        <img className="w-100 mb-3"
+        src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+        alt="lighting-line"
+      />
         <div className="container text-center">
           <div className="list-unstyled row justify-content-evenly">
             <div className="col-4">
@@ -67,7 +71,7 @@ function Skills() {
             </div>
           </div>
         </div>
-      </section>
+      </main>
     </>
   );
 }

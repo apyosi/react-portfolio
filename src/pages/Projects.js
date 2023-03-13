@@ -13,18 +13,21 @@ import image6 from "../images/02-portfolio-6.png"; */
 function Projects() {
   return (
     <>
-      <section id="projects" className="container">
-        <h1 className="text-center">Work</h1>
-        <hr />
+      <main id="projects" className="container-fluid">
+        <h1 className="text-center">Projects</h1>
+        {/* <hr /> */}
+        <img className="w-100 mb-3"
+        src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+        alt="lighting-line"
+      />
         <div className="container">
           <div className="row g-5 ">
             {projects.map((item) => (
               <Card key={item.id} item={item} />
-              // <h1>{item.id}</h1>
             ))}
           </div>
         </div>
-      </section>
+      </main>
     </>
   );
 }
