@@ -37,7 +37,7 @@ clone the repo
 
 [Deployed link of the portfolio website](https://apyosi.github.io/react-portfolio/)
 
-<a href="https://apyosi.github.io/react-portfolio/" target="_blank" rel="noreferrer"><img src="./demo/image.png" alt="portfolio image" /></a>
+<a href="https://apyosi.github.io/react-portfolio/" target="_blank" rel="nofollow noreferrer"><img src="./demo/image.png" alt="portfolio image" /></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
