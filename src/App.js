@@ -22,6 +22,7 @@ function App() {
         </Route>
         <Route path="skills" element={<Skills />} />
         <Route path="contact" element={<Contact />} />
+        <Route path="react-portfolio" element={<NotFound />} />
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
