@@ -27,13 +27,8 @@ function NavTabs() {
               </NavLink>
             </li>
             <li className="nav-item">
-            <NavLink to="/about" className="nav-link p-2 m-1">
-                About Me
-              </NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink to="/work" className="nav-link p-2 m-1">
-                Work
+              <NavLink to="/projects" className="nav-link p-2 m-1">
+                Projects
               </NavLink>
             </li>
             <li className="nav-item">
