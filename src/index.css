@@ -1,6 +1,7 @@
-/* body {
-  margin-top: 56px;
-} */
+body {
+  /* margin-top: 56px; */
+  background-color: black;
+}
 
 #root {
   flex-grow: 1;
@@ -12,21 +13,32 @@
 .App {
   width: 100%;
   /* max-width: 800px; */
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   border: 1px solid #333;
   box-shadow: 0px 0px 15px gray;
+  background-color: black;
 }
 
 #home, #projects, #project, #skills, #contact, #notFound {
   width: 100%;
+  /* height: 80vh; */
   flex-grow: 1;
   padding: 1rem;
   overflow-y: auto;
-  background-color: #fff;
+  background-color: black;
+  color: #fff ;
+}
+h1,h2,h3,h4,h5,h6 {
+  color: #ff9d00;
+}
+p {
+  color: #d97322;
+  color: #3fc75a;
+  color: #3ad300;
 }
 
 .Header, .Footer {
@@ -71,12 +83,12 @@
 }
 
 
-a:hover {
+#navbarNav a:hover {
   -webkit-box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.6);
   background-color: rgb(58, 54, 54);
 }
 
 .active {
-  background-color: maroon;
+  background-color: #0D6EFD;
 }
