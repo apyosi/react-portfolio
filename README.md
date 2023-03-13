@@ -35,7 +35,9 @@ clone the repo
 
 <h2 id="usage">▶️ Usage</h2>
 
-link to see it
+[Deployed link of the portfolio website](https://apyosi.github.io/react-portfolio/)
+
+<a href="https://apyosi.github.io/react-portfolio/" target="_blank" rel="noreferrer"><img src="./demo/image.png" alt="portfolio image" /></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
