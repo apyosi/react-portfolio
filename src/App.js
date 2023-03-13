@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
 import Home from "./pages/Home";
@@ -7,7 +7,7 @@ import Project from "./pages/Project";
 import Skills from "./pages/Skills";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-import data from "./data.json"
+// import data from "./data.json"
 
 function App() {
   // const [projects, setProjects] = useState([data]);

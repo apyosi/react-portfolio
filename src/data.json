@@ -1,10 +1,17 @@
 [
   {
-    "id": "weather-forecast",
-    "description": "5 Day Weather Forecast - retrieve weather data for cities.",
-    "image_url": "https://raw.githubusercontent.com/apyosi/weather-forecast/main/demo/image.png",
-    "html_url": "https://github.com/apyosi/weather-forecast",
-    "deployed_url": "https://apyosi.github.io/weather-forecast/"
+    "id": "Traveller-Friend",
+    "description": "A one-stop holiday planning site using few APIs (OpenWeatherMap.org, ExchangeRate.Host, Calendarific, Google Maps) .",
+    "image_url": "https://raw.githubusercontent.com/apyosi/Traveller-Friend/main/assets/img/Screenshot.png",
+    "html_url": "https://github.com/apyosi/Traveller-Friend",
+    "deployed_url": "https://apyosi.github.io/Traveller-Friend/"
+  },
+  {
+    "id": "readme-generator",
+    "description": "Command-line application to generate README.md files from user input.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/readme-generator/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/readme-generator",
+    "deployed_url": "https://apyosi.github.io/readme-generator/"
   },
   {
     "id": "daily-planner",
@@ -12,6 +19,13 @@
     "image_url": "https://raw.githubusercontent.com/apyosi/daily-planner/main/demo/image.png",
     "html_url": "https://github.com/apyosi/daily-planner",
     "deployed_url": "https://apyosi.github.io/daily-planner/"
+  },
+  {
+    "id": "weather-forecast",
+    "description": "5 Day Weather Forecast - retrieve weather data for cities.",
+    "image_url": "https://raw.githubusercontent.com/apyosi/weather-forecast/main/demo/image.png",
+    "html_url": "https://github.com/apyosi/weather-forecast",
+    "deployed_url": "https://apyosi.github.io/weather-forecast/"
   },
   {
     "id": "code-quiz",
@@ -26,19 +40,5 @@
     "image_url": "https://raw.githubusercontent.com/apyosi/password-generator/main/demo/image.png",
     "html_url": "https://github.com/apyosi/password-generator",
     "deployed_url": "https://apyosi.github.io/password-generator/"
-  },
-  {
-    "id": "readme-generator",
-    "description": "Command-line application to generate README.md files from user input.",
-    "image_url": "https://raw.githubusercontent.com/apyosi/readme-generator/main/demo/image.png",
-    "html_url": "https://github.com/apyosi/readme-generator",
-    "deployed_url": "https://apyosi.github.io/readme-generator/"
-  },
-  {
-    "id": "Traveller-Friend",
-    "description": "A one-stop holiday planning site using few APIs (OpenWeatherMap.org, ExchangeRate.Host, Calendarific, Google Maps) .",
-    "image_url": "https://raw.githubusercontent.com/apyosi/Traveller-Friend/main/assets/img/Screenshot.png",
-    "html_url": "https://github.com/apyosi/Traveller-Friend",
-    "deployed_url": "https://apyosi.github.io/Traveller-Friend/"
   }
 ]
