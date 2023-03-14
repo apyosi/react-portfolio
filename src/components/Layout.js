@@ -7,7 +7,7 @@ import Footer from "./Footer"
 const Layout = () => {
   return (
       <div className="App">
-          {/* <Header title="React Portfolio" /> */}
+          <Header title="React Portfolio" />
           {/* <NavTabs  /> */}
           <NavTabs2  />
           <Outlet />

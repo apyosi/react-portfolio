@@ -6,7 +6,7 @@ function NavTabs() {
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark container-fluid">
       <div className="container-fluid">
         <div className="navbar-brand">
-          Anton Yosifov - Portfolio
+          Anton Yosifov
         </div>
         <button
           className="navbar-toggler"
@@ -38,7 +38,7 @@ function NavTabs() {
             </li>
             <li className="nav-item">
               <NavLink to="/contact" className="nav-link p-2 m-1">
-                Contact Me
+                Contact
               </NavLink>
             </li>
           </ul>
