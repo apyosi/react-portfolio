@@ -11,7 +11,7 @@ function Contact(props) {
       />
       <form className="w-75 m-auto">
         <div className="mb-3">
-          <label for="exampleInputName" className="form-label">
+          <label htmlFor="exampleInputName" className="form-label">
             Name
           </label>
           <input
@@ -22,7 +22,7 @@ function Contact(props) {
           />
         </div>
         <div className="mb-3">
-          <label for="exampleInputEmail1" className="form-label">
+          <label htmlFor="exampleInputEmail1" className="form-label">
             Email
           </label>
           <input
@@ -36,7 +36,7 @@ function Contact(props) {
           </div>
         </div>
         <div className="mb-3">
-          <label for="exampleFormControlTextarea1" className="form-label">
+          <label htmlFor="exampleFormControlTextarea1" className="form-label">
             Message
           </label>
           <textarea
