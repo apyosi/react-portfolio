@@ -31,7 +31,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="btn btn-primary"
         >
-          <i class="fa-solid fa-file" aria-hidden="true"></i> CV/Resume
+          <i className="fa-solid fa-file" aria-hidden="true"></i> CV/Resume
         </a>
       </div>
       <div className="text-center d-block bg-dark text-light container-fluid pt-3"><ul>Copyright &copy; {today.getFullYear()}</ul></div>
