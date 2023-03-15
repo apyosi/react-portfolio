@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.f46bd5f2.css",
-    "main.js": "/react-portfolio/static/js/main.0af54e7b.js",
+    "main.js": "/react-portfolio/static/js/main.05a6894b.js",
     "static/media/pull-shark.png": "/react-portfolio/static/media/pull-shark.44fc2e9e56f635ec8ec9.png",
     "index.html": "/react-portfolio/index.html",
     "main.f46bd5f2.css.map": "/react-portfolio/static/css/main.f46bd5f2.css.map",
-    "main.0af54e7b.js.map": "/react-portfolio/static/js/main.0af54e7b.js.map"
+    "main.05a6894b.js.map": "/react-portfolio/static/js/main.05a6894b.js.map"
   },
   "entrypoints": [
     "static/css/main.f46bd5f2.css",
-    "static/js/main.0af54e7b.js"
+    "static/js/main.05a6894b.js"
   ]
 }
