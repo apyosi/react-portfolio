@@ -10,7 +10,7 @@ const Footer = () => {
           <i className="fa fa-envelope-square" aria-hidden="true"></i> anton.yosifov@outlook.com
         </a>
         <a
-          href="https://www.linkedin.com/in/anton-yosifov-9b38b85b/"
+          href="https://www.linkedin.com/in/anton-yosifov/"
           target="_blank"
           rel="noopener noreferrer"
           className="btn btn-primary"
