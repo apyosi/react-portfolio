@@ -78,6 +78,13 @@ p {
   background-color: white;
 } */
 
+.card img {
+  object-fit: contain;
+  object-position: top;
+  width: 350px;
+  height: 250px;
+}
+
 .card img:hover {
   cursor: pointer;
 }
