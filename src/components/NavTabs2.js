@@ -6,7 +6,9 @@ function NavTabs() {
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark container-fluid">
       <div className="container-fluid">
         <div className="navbar-brand">
-          Anton Yosifov
+          <NavLink to="/" className="nav-link p-2 m-1">
+            React Portfolio
+          </NavLink>
         </div>
         <button
           className="navbar-toggler"
