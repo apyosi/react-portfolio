@@ -42,24 +42,24 @@ function Home() {
           <li>🌱 I’m currently learning React</li>
         </ul> */}
         <p className="font-monospace fw-bold ">
-          I specialize Front-End Web Development
+          Certified Front-End Web Developer (
           <a
             href="https://skillsforlife.edx.org/"
             target="_blank"
             rel="noreferrer"
           >
-            (Trilogy's Skills Bootcamp 2023)
-          </a>{" "}
-          and I am graduated in Computing Technologies(University of Roehampton
-          2022). During my time in these programs, I have picked up technical
-          knowledge and abilities from my university course as well as practical
-          skills from the bootcamp and independent study in several subjects.
-          Along with using a variety of programming languages, development tools
-          and operating systems, I have also gone through the system development
-          life cycle. I'm eager to advance in the IT industry and have a focus
-          in range computing technology — Front-End and Back-End Web
-          Development, Systems & Network Management, Cybersecurity, Cloud
-          Computing and Quality Assurance.
+            Trilogy's Skills Bootcamp 2023
+          </a>) and graduated in Computing Technologies (
+          <a
+            href="https://www.roehampton.ac.uk/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            University of Roehampton 2022
+          </a>
+          ). During my time in these programs, I have picked up
+          technical knowledge and abilities from my university course, as well as practical skills from the boot camp and independent study in several subjects. Along with using a variety of programming languages, development tools, and operating systems, I have also gone through agile and waterfall development life cycle methodologies on the group projects in the courses.
+          <br></br>As a career switcher, I am eager to advance in the IT industry and have a focus on a range of computing technologies: Front-End and Back-End Web Development, Cloud Computing, Systems & Network Management, and Cybersecurity.
         </p>
       </div>
       <hr />
