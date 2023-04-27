@@ -1,41 +1,62 @@
 [
   {
+    "id": "Handironingservice.co.uk",
+    "description": "Drupal website created for a customer to address the client business reuqirements. SEO optimizied - 1st result on Google search!",
+    "image_url": "https://raw.githubusercontent.com/apyosi/handironingservice-public/main/handironingservice.png",
+    "html_url": "https://github.com/apyosi/handironingservice-public",
+    "deployed_url": "https://www.handironingservice.co.uk/"
+  },
+  {
+    "id": "ShopAddict - eCommerce",
+    "description": "Fully responsive React eCommerce application fetching data from server-side API and deployed using Netlify!",
+    "image_url": "https://raw.githubusercontent.com/apyosi/ecommerce-shop/main/demo/image1.png",
+    "html_url": "https://github.com/apyosi/ecommerce-shop",
+    "deployed_url": "https://transcendent-kringle-16abc9.netlify.app/"
+  },
+  {
+    "id": "Inspire Me Brixton",
+    "description": "InspireMe is a charity organisation based in Brixton London which specialises in human development through motivational public speaking conferences!",
+    "image_url": "https://raw.githubusercontent.com/apyosi/inspire-me/main/demo/demo5.png",
+    "html_url": "https://github.com/apyosi/inspire-me",
+    "deployed_url": "https://apyosi.github.io/inspire-me/"
+  },
+  {
     "id": "Traveller-Friend",
-    "description": "A one-stop holiday planning site using few APIs (OpenWeatherMap.org, ExchangeRate.Host, Calendarific, Google Maps) .",
+    "description": "A one-stop holiday planning site using few APIs - (OpenWeatherMap, ExchangeRate, Calendarific, Google Maps)!",
     "image_url": "https://raw.githubusercontent.com/apyosi/Traveller-Friend/main/assets/img/Screenshot.png",
     "html_url": "https://github.com/apyosi/Traveller-Friend",
     "deployed_url": "https://apyosi.github.io/Traveller-Friend/"
   },
   {
-    "id": "readme-generator",
-    "description": "Command-line application to generate README.md files from user input.",
+    "id": "Readme-generator",
+    "description": "Command-line application to generate README.md files from user input. Optimizied for Github and using nice looking badges and icons!",
     "image_url": "https://raw.githubusercontent.com/apyosi/readme-generator/main/demo/image.png",
     "html_url": "https://github.com/apyosi/readme-generator",
     "deployed_url": "https://apyosi.github.io/readme-generator/"
   },
   {
-    "id": "daily-planner",
-    "description": "Simple calendar application that allows a user to save events for each business hour of the day.",
+    "id": "Daily-planner",
+    "description": "Simple calendar application that allows a user to save events for each business hour of the day. Using the browser local storage!",
     "image_url": "https://raw.githubusercontent.com/apyosi/daily-planner/main/demo/image.png",
     "html_url": "https://github.com/apyosi/daily-planner",
     "deployed_url": "https://apyosi.github.io/daily-planner/"
   },
   {
-    "id": "weather-forecast",
-    "description": "5 Day Weather Forecast - retrieve weather data for cities.",
+    "id": "Weather-forecast",
+    "description": "5 Day Weather Forecast - retrieve weather data from OpenWeatherMap and store the search history in the browser local storage!",
     "image_url": "https://raw.githubusercontent.com/apyosi/weather-forecast/main/demo/image.png",
     "html_url": "https://github.com/apyosi/weather-forecast",
     "deployed_url": "https://apyosi.github.io/weather-forecast/"
   },
   {
-    "id": "code-quiz",
-    "description": "Timed coding quiz with multiple-choice questions that stores high scores.",
+    "id": "Code-quiz",
+    "description": "Timed coding quiz app with multiple-choice questions, dynamically update HTML and CSS powered by JavaScript that stores high scores.",
     "image_url": "https://raw.githubusercontent.com/apyosi/code-quiz/main/demo/image.png",
     "html_url": "https://github.com/apyosi/code-quiz",
     "deployed_url": "https://apyosi.github.io/code-quiz/"
   },
   {
-    "id": "password-generator",
+    "id": "Password-generator",
     "description": "Generate a random password based on different character types (Lowercase, Uppercase, Numeric, Special characters).",
     "image_url": "https://raw.githubusercontent.com/apyosi/password-generator/main/demo/image.png",
     "html_url": "https://github.com/apyosi/password-generator",
