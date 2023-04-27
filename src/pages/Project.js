@@ -25,7 +25,7 @@ const Project = () => {
               </a>
             </div>
             <img
-              className=" img-fluid  border border-dark m-1"
+              className="img-fluid border border-dark m-1"
               src={project.image_url}
               alt={projects.id}
             />
