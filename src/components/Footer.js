@@ -26,7 +26,7 @@ const Footer = () => {
           <i className="fa fa-github-square" aria-hidden="true"></i> GitHub
         </a>
         <a
-          href="https://drive.google.com/file/d/1Xj9BBFNU_PgyaltKcoA4_i-PR4p3qAs4/view"
+          href="https://drive.google.com/file/d/1zcyQAbSpoCzDM_krpeYPYzbgwGeUpW7Y/view"
           target="_blank"
           rel="noopener noreferrer"
           className="btn btn-primary"
