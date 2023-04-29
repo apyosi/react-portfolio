@@ -15,12 +15,12 @@ const Project = () => {
             <div>
               <a href={project.html_url} target="_blank" rel="noreferrer">
                 <button className="btn bg-dark text-white m-2">
-                  GitHub Repository
+                <i className="fa-solid fa-link" aria-hidden="true"></i> GitHub Repository
                 </button>
               </a>
               <a href={project.deployed_url} target="_blank" rel="noreferrer">
                 <button className="btn bg-dark text-white">
-                  Deployed link
+                <i className="fa-solid fa-link" aria-hidden="true"></i> Deployed link
                 </button>
               </a>
             </div>
