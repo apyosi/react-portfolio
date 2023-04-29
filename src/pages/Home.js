@@ -41,7 +41,7 @@ function Home() {
           <li>🌱 I’m currently learning React</li>{" "}
           <li>🌱 I’m currently learning React</li>
         </ul> */}
-        <p className="font-monospace fw-bold ">
+        <p className="font-monospace fw-bold text-justify">
           Certified Front-End Web Developer (
           <a
             href="https://skillsforlife.edx.org/"
