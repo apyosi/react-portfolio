@@ -99,3 +99,7 @@ p {
 .active {
   background-color: #0D6EFD;
 }
+
+.text-justify {
+  text-align: justify;
+}
